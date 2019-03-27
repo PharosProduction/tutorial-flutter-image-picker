@@ -1,4 +1,4 @@
-# tutorial_flutter_image_picker
+# tutorial-flutter-image-picker
 
 Tutorial on how to pick images in Flutter application for Android
 
